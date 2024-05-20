@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=UBAX-13g8OM&t=15s
+
+Acessei a pasta (ls - lista / cd - acessa);
+
+git init
+git add "arquivo" (sem aspas)
+git status
+git commit -m "Comentário"
+git branch -M main
+git remote add origin "link do repositório git"
+git push -u origin main
+
+--Alterei alguma coisa no arquivo
+git add . (o ponto significa todos os arquivos)
+git commit -m "mensagem"
+git push origin main
